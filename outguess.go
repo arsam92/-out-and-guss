@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/arsam92/-out-and-guss/arc"
-	"github.com/arsam92/-out-and-guss/stegjpeg"
+	"github.com/arsam92/outguess-web-lab/arc"
+	"github.com/arsam92/outguess-web-lab/stegjpeg"
 )
 
 type iterator struct {
