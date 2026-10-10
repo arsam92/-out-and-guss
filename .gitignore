@@ -1,0 +1,4 @@
+dist/
+outguess.wasm
+wasm_exec.js
+*.test
