@@ -12,7 +12,7 @@ import (
 	"image/color"
 	"io"
 
-	"github.com/arsam92/-out-and-guss/stegjpeg/internal/imageutil"
+	"github.com/arsam92/outguess-web-lab/stegjpeg/internal/imageutil"
 )
 
 // TODO(nigeltao): fix up the doc comment style so that sentences start with
