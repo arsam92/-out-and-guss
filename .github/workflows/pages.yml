@@ -19,6 +19,8 @@ jobs:
         with:
           go-version: '1.23.x'
           cache: true
+      - name: Check browser JavaScript syntax
+        run: node --check app.js
       - name: Test Go packages
         run: go test ./...
       - name: Build browser WebAssembly extractor
