@@ -12,7 +12,7 @@ import (
  "syscall/js"
  "unicode/utf8"
 
- "github.com/arsam92/-out-and-guss"
+ "github.com/arsam92/outguess-web-lab"
 )
 
 var extractFunc js.Func
